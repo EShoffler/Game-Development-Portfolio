@@ -3,7 +3,7 @@ import { AboutMeData, Game, GameEngine, LinkImageSource, MediaType, Platform } f
 export const PersonalInfo: AboutMeData = {
   name: "Evelyn Shoffler",
   role: "Game Designer, Producer, Software Developer",
-  introduction: "Game Developer with skills in production and team management, game design, and programming. Skills in C#, C++, Java, and Unity, as well as in design and project management. Currently attending RIT for Game Design and Development Bachelor.",
+  introduction: "Game Developer with skills in production and team management, game design, and programming. Skills in C#, C++, Java, and Unity, as well as in design and project management. Currently attending RIT for Game Design and Development Masters.",
   description: "Games have always been an incredibly important medium to me. Creating projects that are able to reach an audience and connect to them in the same way so many games have had a monumental impact on me is my dream. Right now, I'm looking for any roles that are able to help me improve as a developer, working with teams to get hands-on production experience.",
   image: `${process.env.PUBLIC_URL}/images/Profile.jpg`,
   cvUri: `${process.env.PUBLIC_URL}/files/resume.pdf`,
